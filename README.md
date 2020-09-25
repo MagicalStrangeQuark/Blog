@@ -18,13 +18,15 @@
 <h2 align="center">🪅 Migrations</h2>
 
 ```
-    php artisan make:model Comments -mcr
-
-    php artisan make:model Posts -mcr
-
-    php artisan make:model Categories -mcr
+    php artisan make:model Comment -mcr
 
     php artisan make:model Status -mcr
+
+    php artisan make:model Category -mcr
+
+    php artisan make:model Post -mcr
+
+    php artisan make:migration CreatePostsCategoriesTable
 ```
 
 <h2 align="center">🪅 Entity Relationship Diagram (ERD)</h2>
