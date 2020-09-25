@@ -18,9 +18,9 @@
 <h2 align="center">🪅 Migrations</h2>
 
 ```
-    php artisan make:model Comment -mcr
-
     php artisan make:model Status -mcr
+
+    php artisan make:model Comment -mcr
 
     php artisan make:model Category -mcr
 
