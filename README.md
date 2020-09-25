@@ -1,4 +1,4 @@
-<h1 align="center">Blog</h1>
+<h1 align="center">📨 Blog 📨</h1>
 
 <p align="center">
     <img src="https://img.shields.io/github/license/MagicalStrangeQuark/Blog"/>
@@ -9,13 +9,25 @@
 
 <h2 align="center">Development of a blog project using <img src="Laravel.svg"></h2>
 
-<h2 align="center">Create Project</h2>
+<h2 align="center">🪅 Create Project</h2>
 
 ```
     composer create-project --prefer-dist laravel/laravel blog
 ```
 
-<h2 align="center">Entity Relationship Diagram (ERD)</h2>
+<h2 align="center">🪅 Migrations</h2>
+
+```
+    php artisan make:model Comments -mcr
+
+    php artisan make:model Posts -mcr
+
+    php artisan make:model Categories -mcr
+
+    php artisan make:model Status -mcr
+```
+
+<h2 align="center">🪅 Entity Relationship Diagram (ERD)</h2>
 
 <p align="center">
     <img src="ERD/EDR.svg">
