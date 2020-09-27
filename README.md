@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/languages/code-size/MagicalStrangeQuark/Blog"/>
 </p>
 
-<h2 align="center">Development of a blog project using <img src="Laravel.svg"></h2>
+<h2 align="center">Development of a blog project using <img src="docs/Laravel.svg"></h2>
 
 <h2 align="center">🪅 Create Project</h2>
 
@@ -29,8 +29,12 @@
     php artisan make:migration CreatePostsCategoriesTable
 ```
 
+<h2 align="center">🪅 Template</h2>
+
+<h4 align="center">https://bootstrapmade.com/onepage-multipurpose-bootstrap-template</h4>
+
 <h2 align="center">🪅 Entity Relationship Diagram (ERD)</h2>
 
 <p align="center">
-    <img src="ERD/EDR.svg">
+    <img src="docs/ERD/EDR.svg">
 </p>
