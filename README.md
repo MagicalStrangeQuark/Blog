@@ -28,6 +28,9 @@
 
     php artisan make:migration CreatePostsCategoriesTable
 ```
+<h2 align="center">🪅 Example</h2>
+
+<h4 align="center">https://www.pipedrive.com</h4>
 
 <h2 align="center">🪅 Template</h2>
 
