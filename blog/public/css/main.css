@@ -1,0 +1,29 @@
+:root {
+  --button-color: #91c3e9;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+}
+
+a {
+  color: #2487ce;
+}
+
+a:hover {
+  color: #469fdf;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+.content {
+  margin-top: 20vh;
+}
+
+button[type=submit] {
+  background-color: var(--button-color);
+}
